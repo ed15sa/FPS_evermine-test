@@ -1,0 +1,525 @@
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/FirstPerson/Character/Textures/UE4_LOGO_CARD.uasset" 0
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 1
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber.uasset" 2
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uasset" 3
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/Geometry/Meshes/CubeMaterial.uasset" 4
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 5
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/Geometry/Meshes/TemplateFloor.uasset" 6
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Materials/M_Basic_Wall.uasset" 7
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Architecture/Pillar_50x500.uasset" 8
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Architecture/Wall_400x300.uasset" 9
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Architecture/Wall_400x400.uasset" 10
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Architecture/Wall_500x500.uasset" 11
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 12
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 13
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Audio/Collapse01.uasset" 14
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Audio/Collapse02.uasset" 15
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Audio/Explosion01.uasset" 16
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Audio/Explosion02.uasset" 17
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Audio/Fire01.uasset" 18
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Audio/Fire_Sparks01.uasset" 19
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Audio/Light01.uasset" 20
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Audio/Light01_Cue.uasset" 21
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Audio/Light02.uasset" 22
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Audio/Light02_Cue.uasset" 23
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Audio/Smoke01.uasset" 24
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Audio/Starter_Birds01.uasset" 25
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Audio/Starter_Music01.uasset" 26
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Audio/Starter_Wind05.uasset" 27
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Audio/Starter_Wind06.uasset" 28
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Audio/Steam01.uasset" 29
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Audio/Explosion_Cue.uasset" 30
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Burst_M.uasset" 31
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Particles/Materials/M_Burst.uasset" 32
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 33
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 34
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 35
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 36
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 37
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 38
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 39
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 40
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Particles/P_Explosion.uasset" 41
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 42
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 43
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 44
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Bush_D.uasset" 45
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Bush_N.uasset" 46
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Props/Materials/M_Bush.uasset" 47
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Props/SM_Bush.uasset" 48
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Chair_M.uasset" 49
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Chair_N.uasset" 50
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Props/Materials/M_Chair.uasset" 51
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Props/SM_Couch.uasset" 52
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Materials/M_Glass.uasset" 53
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Door_M.uasset" 54
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Door_N.uasset" 55
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Props/Materials/M_Door.uasset" 56
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Props/SM_Door.uasset" 57
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 58
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 59
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 60
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 61
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 62
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 63
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_RockMesh_M.uasset" 64
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_RockMesh_N.uasset" 65
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Props/Materials/M_Rock.uasset" 66
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Props/SM_Rock.uasset" 67
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Shelf_M.uasset" 68
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Shelf_N.uasset" 69
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Props/Materials/M_Shelf.uasset" 70
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Props/SM_Shelf.uasset" 71
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Materials/M_Basic_Floor.uasset" 72
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Props/SM_Stairs.uasset" 73
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Shapes/Shape_Cone.uasset" 74
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 75
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 76
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Shapes/Shape_Pipe.uasset" 77
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 78
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 79
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Shapes/Shape_Plane.uasset" 80
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Shapes/Shape_Torus.uasset" 81
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Shapes/Shape_Trim.uasset" 82
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 83
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 84
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 85
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Shapes/Shape_Tube.uasset" 86
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 87
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 88
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 89
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 90
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 91
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 92
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 93
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 94
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 95
+"../../../Engine/Content/BasicShapes/Cone.uasset" 96
+"../../../Engine/Content/BasicShapes/Cube.uasset" 97
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 98
+"../../../Engine/Content/BasicShapes/Plane.uasset" 99
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 100
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 101
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 102
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 103
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 104
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 105
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 106
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 107
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 108
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 109
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 110
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 111
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 112
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 113
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 114
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 115
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 116
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 117
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 118
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 119
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 120
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 121
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 122
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 123
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 124
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 125
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 126
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 127
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 128
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 129
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 130
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 131
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 132
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 133
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 134
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 135
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 136
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 137
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 138
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 139
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 140
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 141
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 142
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 143
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 144
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 145
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 146
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 147
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 148
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 149
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 150
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 151
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 152
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 153
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 154
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 155
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 156
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 157
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 158
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 159
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 160
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 161
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 162
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 163
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 164
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 165
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 166
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 167
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 168
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 169
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 170
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 171
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 172
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 173
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 174
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 175
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 176
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 177
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 178
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 179
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 180
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 181
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 182
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 183
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 184
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 185
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 186
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 187
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 188
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 189
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 190
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 191
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 192
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 193
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 194
+"../../../Engine/Content/EngineResources/Black.uasset" 195
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 196
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 197
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 198
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 199
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 200
+"../../../Engine/Content/EngineSounds/Master.uasset" 201
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 202
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 203
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 204
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 205
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 206
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 207
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 208
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 209
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 210
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 211
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 212
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 213
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 214
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 215
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 216
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 217
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 218
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 219
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 220
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 221
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 222
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 223
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 224
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 225
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 226
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 227
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 228
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 229
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 230
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 231
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 232
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 233
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 234
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 235
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 236
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 237
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 238
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 239
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 240
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 241
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 242
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 243
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 244
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 245
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 246
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 247
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 248
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 249
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 250
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 251
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 252
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 253
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset" 254
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/FirstPerson/Animations/FirstPerson_Idle.uasset" 255
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/FirstPerson/Animations/FirstPerson_JumpEnd.uasset" 256
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/FirstPerson/Animations/FirstPerson_JumpLoop.uasset" 257
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/FirstPerson/Animations/FirstPerson_JumpStart.uasset" 258
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/FirstPerson/Animations/FirstPerson_Run.uasset" 259
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 260
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset" 261
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/FirstPerson/Animations/FirstPerson_Fire.uasset" 262
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/FirstPerson/Animations/FirstPersonFire_Montage.uasset" 263
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/FirstPerson/Meshes/BaseMaterial.uasset" 264
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/FirstPerson/Meshes/FirstPersonProjectileMaterial.uasset" 265
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/FirstPerson/Meshes/FirstPersonProjectileMesh.uasset" 266
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset" 267
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.uasset" 268
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 269
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 270
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 271
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 272
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 273
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 274
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 275
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 276
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 277
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/FirstPerson/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 278
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/FirstPerson/Character/Textures/UE4_Mannequin__normals.uasset" 279
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 280
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/FirstPerson/Character/Materials/M_UE4Man_Body.uasset" 281
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uasset" 282
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms.uasset" 283
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 284
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 285
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 286
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 287
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset" 288
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 289
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 290
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 291
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/FirstPerson/FPWeapon/Textures/T_FPGun_M.uasset" 292
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/FirstPerson/FPWeapon/Textures/T_FPGun_N.uasset" 293
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/FirstPerson/FPWeapon/Materials/M_FPGun.uasset" 294
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset" 295
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun.uasset" 296
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" 297
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 298
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 299
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 300
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 301
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 302
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 303
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 304
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 305
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 306
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/FirstPerson/Textures/FirstPersonCrosshair.uasset" 307
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/FirstPersonBP/Blueprints/FirstPersonHUD.uasset" 308
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset" 309
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset" 310
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 311
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 312
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/FirstPerson/Meshes/CubeMaterialOverride.uasset" 313
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/Blueprints/SessionButton.uasset" 314
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/Blueprints/FINDSessionmenu.uasset" 315
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/Blueprints/NewGameInstance.uasset" 316
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/Blueprints/HOSTSessionMenu.uasset" 317
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/Blueprints/MultiplayerMainMenu.uasset" 318
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/Geometry/Meshes/1M_Cube.uasset" 319
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" 320
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/FirstPersonBP/Maps/Map2_BuiltData.uasset" 321
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/FirstPersonBP/Maps/Map2.umap" 322
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 323
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 324
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 325
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 326
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 327
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 328
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 329
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 330
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 331
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 332
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 333
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 334
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 335
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Materials/M_AssetPlatform.uasset" 336
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 337
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 338
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 339
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 340
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 341
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 342
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 343
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 344
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Maps/Advanced_Lighting.umap" 345
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 346
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_MacroVariation.uasset" 347
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 348
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 349
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 350
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 351
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 352
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Materials/M_Metal_Copper.uasset" 353
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Statue_M.uasset" 354
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Statue_N.uasset" 355
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 356
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Architecture/Floor_400x400.uasset" 357
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 358
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Props/SM_Chair.uasset" 359
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Props/Materials/M_Statue.uasset" 360
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Props/SM_Statue.uasset" 361
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_TableRound_M.uasset" 362
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_TableRound_N.uasset" 363
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Props/Materials/M_TableRound.uasset" 364
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Props/SM_TableRound.uasset" 365
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Maps/Minimal_Default.umap" 366
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Audio/Fire01_Cue.uasset" 367
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 368
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 369
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 370
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Water_N.uasset" 371
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 372
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 373
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Particles/P_Fire.uasset" 374
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 375
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Audio/Smoke01_Cue.uasset" 376
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Particles/P_Smoke.uasset" 377
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 378
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 379
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Spark_Core.uasset" 380
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Particles/Materials/M_Spark.uasset" 381
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Particles/P_Sparks.uasset" 382
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 383
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Audio/Steam01_Cue.uasset" 384
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Particles/P_Steam_Lit.uasset" 385
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 386
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Lamp_M.uasset" 387
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Lamp_N.uasset" 388
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Props/Materials/M_Lamp.uasset" 389
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 390
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 391
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 392
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 393
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 394
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 395
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 396
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 397
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 398
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 399
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 400
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 401
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 402
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 403
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 404
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 405
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 406
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 407
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 408
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 409
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 410
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 411
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 412
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 413
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 414
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 415
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 416
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 417
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 418
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 419
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 420
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 421
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 422
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 423
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Gradinet_01.uasset" 424
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 425
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 426
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 427
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 428
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 429
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 430
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 431
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 432
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 433
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 434
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 435
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 436
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 437
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 438
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 439
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 440
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 441
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 442
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 443
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 444
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 445
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 446
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Materials/M_Ground_Grass.uasset" 447
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 448
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 449
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 450
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 451
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 452
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Materials/M_Ground_Moss.uasset" 453
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 454
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 455
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Materials/M_Metal_Gold.uasset" 456
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 457
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Materials/M_Metal_Rust.uasset" 458
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 459
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 460
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Materials/M_Metal_Steel.uasset" 461
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 462
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 463
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 464
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 465
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 466
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 467
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 468
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 469
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Materials/M_Rock_Slate.uasset" 470
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 471
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 472
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 473
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 474
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 475
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 476
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 477
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 478
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 479
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 480
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 481
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Materials/M_Tech_Panel.uasset" 482
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Materials/M_Water_Lake.uasset" 483
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Water_M.uasset" 484
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Materials/M_Water_Ocean.uasset" 485
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 486
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 487
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 488
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 489
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 490
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 491
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 492
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 493
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Materials/M_Wood_Oak.uasset" 494
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 495
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 496
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Materials/M_Wood_Pine.uasset" 497
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 498
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 499
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 500
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Architecture/Wall_400x200.uasset" 501
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 502
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 503
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Audio/Collapse_Cue.uasset" 504
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 505
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 506
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 507
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 508
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Props/MaterialSphere.uasset" 509
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Frame_M.uasset" 510
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Textures/T_Frame_N.uasset" 511
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Props/Materials/M_Frame.uasset" 512
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Props/SM_CornerFrame.uasset" 513
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Props/SM_DoorFrame.uasset" 514
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Props/SM_GlassWindow.uasset" 515
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Props/SM_PillarFrame.uasset" 516
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Props/SM_PillarFrame300.uasset" 517
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Props/SM_WindowFrame.uasset" 518
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Shapes/Shape_Cube.uasset" 519
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 520
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Shapes/Shape_Sphere.uasset" 521
+"E:/Home de Windows/Documentos/Unreal Projects/FPS_evermine/Content/StarterContent/Maps/StarterMap.umap" 522
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 523
+"../../../Engine/Content/Maps/Entry.umap" 524
